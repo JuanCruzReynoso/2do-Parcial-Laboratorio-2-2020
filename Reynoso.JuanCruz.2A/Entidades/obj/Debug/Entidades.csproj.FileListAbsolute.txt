@@ -1,0 +1,6 @@
+C:\Users\ChillOutKet\Desktop\Reynoso.JuanCruz.2A\Entidades\bin\Debug\Entidades.dll
+C:\Users\ChillOutKet\Desktop\Reynoso.JuanCruz.2A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ChillOutKet\Desktop\Reynoso.JuanCruz.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\ChillOutKet\Desktop\Reynoso.JuanCruz.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ChillOutKet\Desktop\Reynoso.JuanCruz.2A\Entidades\obj\Debug\Entidades.dll
+C:\Users\ChillOutKet\Desktop\Reynoso.JuanCruz.2A\Entidades\obj\Debug\Entidades.pdb
